@@ -16,3 +16,11 @@ Git, Mercurial, Bazaar, Darcs
 
 ### Git
 
+2005
+
+Snapshot --> confirmacion
+
+...
+git config --global user.
+
+...
